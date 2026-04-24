@@ -1,0 +1,92 @@
+[3/20/2026 4:23:33 PM] Temperature stable: 40ºC
+[3/20/2026 4:23:35 PM] Temperature HIGH: 64ºC
+[3/20/2026 4:23:37 PM] Temperature HIGH: 80ºC
+[3/20/2026 4:23:39 PM] Temperature HIGH: 92ºC
+[3/20/2026 4:23:41 PM] [WARNING] Temperature critical: 96ºC
+[3/20/2026 4:23:43 PM] Temperature HIGH: 62ºC
+[3/20/2026 4:23:45 PM] Temperature HIGH: 91ºC
+[3/20/2026 4:23:47 PM] Temperature stable: 21ºC
+[3/20/2026 4:23:49 PM] Temperature stable: 40ºC
+[3/20/2026 4:23:51 PM] Temperature HIGH: 63ºC
+[3/20/2026 4:23:53 PM] [WARNING] Temperature critical: 100ºC
+[3/20/2026 4:23:55 PM] [WARNING] Temperature critical: 109ºC
+[3/20/2026 4:23:57 PM] Temperature stable: 20ºC
+[3/20/2026 4:23:59 PM] Temperature HIGH: 80ºC
+[3/20/2026 4:24:01 PM] Temperature stable: 30ºC
+[3/20/2026 4:24:03 PM] Temperature HIGH: 72ºC
+[3/20/2026 4:24:05 PM] Temperature stable: 29ºC
+[3/20/2026 4:24:07 PM] Temperature HIGH: 91ºC
+[3/20/2026 4:24:09 PM] Temperature HIGH: 73ºC
+[3/20/2026 4:24:11 PM] Temperature stable: 58ºC
+[3/20/2026 4:24:13 PM] Temperature stable: 54ºC
+[3/20/2026 4:32:51 PM] Temperature HIGH: 94ºC
+[3/20/2026 4:32:53 PM] Temperature HIGH: 95ºC
+[3/20/2026 4:32:55 PM] [WARNING] Temperature critical: 104ºC
+[3/20/2026 4:32:57 PM] Temperature stable: 49ºC
+[3/20/2026 4:32:59 PM] Temperature stable: 42ºC
+[3/20/2026 4:33:01 PM] Temperature stable: 42ºC
+[3/20/2026 4:33:03 PM] Temperature HIGH: 65ºC
+[3/20/2026 4:33:05 PM] [WARNING] Temperature critical: 101ºC
+[3/20/2026 4:33:07 PM] Temperature stable: 55ºC
+[3/20/2026 4:33:09 PM] Temperature HIGH: 84ºC
+[3/20/2026 4:33:11 PM] Temperature HIGH: 71ºC
+[3/20/2026 4:33:13 PM] [WARNING] Temperature critical: 107ºC
+[3/20/2026 4:33:15 PM] Temperature stable: 43ºC
+[3/20/2026 4:33:17 PM] Temperature stable: 20ºC
+[3/20/2026 4:33:19 PM] [WARNING] Temperature critical: 108ºC
+[3/20/2026 4:33:21 PM] Temperature stable: 45ºC
+[3/20/2026 4:33:23 PM] Temperature stable: 22ºC
+[3/20/2026 4:33:25 PM] Temperature HIGH: 64ºC
+[3/20/2026 4:33:27 PM] Temperature HIGH: 89ºC
+[3/20/2026 4:40:12 PM] [WARNING] Temperature critical: 101ºC
+[3/20/2026 4:40:14 PM] [WARNING] Temperature critical: 102ºC
+[3/20/2026 4:40:16 PM] [WARNING] Temperature critical: 109ºC
+[3/20/2026 4:40:18 PM] Temperature stable: 22ºC
+[3/20/2026 4:40:20 PM] [WARNING] Temperature critical: 100ºC
+[3/20/2026 4:40:57 PM] [WARNING] Temperature critical: 107ºC
+[3/20/2026 4:40:59 PM] Temperature stable: 26ºC
+[3/20/2026 4:41:01 PM] Temperature HIGH: 83ºC
+[3/20/2026 4:41:03 PM] Temperature stable: 56ºC
+[3/20/2026 4:41:05 PM] Temperature stable: 39ºC
+[3/20/2026 4:41:07 PM] Temperature HIGH: 90ºC
+[3/20/2026 4:41:09 PM] Temperature HIGH: 92ºC
+[3/20/2026 4:41:11 PM] Temperature stable: 33ºC
+[3/20/2026 4:41:13 PM] Temperature HIGH: 84ºC
+[3/20/2026 4:41:15 PM] Temperature HIGH: 80ºC
+[3/20/2026 4:41:17 PM] Temperature HIGH: 64ºC
+[3/20/2026 4:41:19 PM] Temperature stable: 45ºC
+[3/20/2026 4:41:21 PM] Temperature HIGH: 86ºC
+[3/20/2026 4:41:23 PM] Temperature stable: 38ºC
+[3/20/2026 4:41:25 PM] [WARNING] Temperature critical: 106ºC
+[3/20/2026 4:41:27 PM] [WARNING] Temperature critical: 108ºC
+[3/20/2026 4:41:29 PM] Temperature stable: 25ºC
+[3/20/2026 4:41:31 PM] Temperature stable: 50ºC
+[3/20/2026 4:41:33 PM] Temperature stable: 30ºC
+[3/20/2026 4:41:35 PM] Temperature stable: 31ºC
+[3/20/2026 4:41:37 PM] [WARNING] Temperature critical: 97ºC
+[3/20/2026 4:41:39 PM] Temperature HIGH: 90ºC
+[3/20/2026 4:41:41 PM] Temperature HIGH: 63ºC
+[3/20/2026 4:41:43 PM] Temperature stable: 36ºC
+[3/20/2026 4:41:45 PM] Temperature stable: 38ºC
+[3/20/2026 4:41:47 PM] Temperature HIGH: 61ºC
+[3/20/2026 4:41:49 PM] [WARNING] Temperature critical: 102ºC
+[3/20/2026 4:41:51 PM] Temperature HIGH: 76ºC
+[3/20/2026 4:41:53 PM] Temperature stable: 27ºC
+[3/20/2026 4:41:55 PM] Temperature HIGH: 95ºC
+[3/20/2026 4:41:57 PM] Temperature HIGH: 70ºC
+[3/20/2026 4:41:59 PM] Temperature HIGH: 62ºC
+[3/20/2026 4:42:01 PM] Temperature HIGH: 72ºC
+[3/20/2026 4:42:03 PM] Temperature stable: 35ºC
+[3/20/2026 4:42:05 PM] Temperature HIGH: 60ºC
+[3/20/2026 4:42:07 PM] Temperature stable: 34ºC
+[3/20/2026 4:42:09 PM] Temperature stable: 41ºC
+[3/20/2026 4:42:11 PM] [WARNING] Temperature critical: 108ºC
+[3/20/2026 4:42:13 PM] Temperature stable: 21ºC
+[3/20/2026 4:42:15 PM] Temperature stable: 49ºC
+[3/20/2026 4:42:17 PM] Temperature HIGH: 92ºC
+[3/20/2026 4:42:19 PM] Temperature HIGH: 76ºC
+[3/20/2026 4:42:21 PM] Temperature stable: 47ºC
+[3/20/2026 4:42:23 PM] Temperature HIGH: 61ºC
+[3/20/2026 4:42:25 PM] [WARNING] Temperature critical: 108ºC
+[3/20/2026 4:42:27 PM] Temperature stable: 53ºC
+[3/20/2026 4:42:29 PM] Temperature stable: 36ºC
